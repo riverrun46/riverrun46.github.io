@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Riverrun46
 tagline:             'Yet Another Personal Blog'
 description:         'Yep. Post fun stuff randomly.'
-url:                 riverrun46.github.io
-baseurl:             ''
+url:                 'https://riverrun46.github.io'
+baseurl:             'https://riverrun46.github.io'
 paginate:            5
 
 # About/contact
