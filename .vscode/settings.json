@@ -6,5 +6,12 @@
         "prepoccesser",
         "relative",
         "trello"
+    ],
+    "cSpell.ignoreWords": [
+        "acumin",
+        "graphik",
+        "heroicons",
+        "pixi",
+        "schoger"
     ]
 }

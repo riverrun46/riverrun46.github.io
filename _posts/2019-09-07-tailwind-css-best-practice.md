@@ -1,3 +1,8 @@
+---
+layout: post
+title: tailwindcss最佳实践
+---
+
 ## Tailwind - 定位：设计中的API
 
 ### 构建代码时，优先考虑提取公共组件，而不是公共类
